@@ -57,7 +57,7 @@
     "experience": "2-4 years",
     "postedAt": "2025-05-02T00:00:00Z",
     "applyUrl": "https://example.com/apply/002",
-    "isActive": true,
+    "isActive": false,
     "category": "Design"
   },
   {
