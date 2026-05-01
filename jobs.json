@@ -1,0 +1,74 @@
+[
+  {
+    "id": "job_001",
+    "title": "Senior Flutter Developer",
+    "company": "TechCorp Inc.",
+    "description": "We are seeking a talented Senior Flutter Developer to join our growing team. You will be responsible for developing and maintaining high-quality mobile and web applications using the Flutter framework.\n\nAs a key member of our engineering team, you will collaborate with designers, product managers, and other developers to deliver exceptional user experiences across platforms.",
+    "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&auto=format&fit=crop&q=60",
+    "location": "Remote",
+    "type": "Full-time",
+    "salary": "$80,000 - $120,000",
+    "deadline": "2025-07-15",
+    "requirements": [
+      "3+ years of experience with Flutter",
+      "Strong knowledge of Dart programming language",
+      "Experience with state management (BLoC, Provider, Riverpod)",
+      "Familiarity with RESTful APIs",
+      "Understanding of CI/CD pipelines"
+    ],
+    "skills": ["Flutter", "Dart", "Firebase", "REST APIs", "Git", "BLoC"],
+    "experience": "3-5 years",
+    "postedAt": "2025-05-01T00:00:00Z",
+    "applyUrl": "https://example.com/apply/001",
+    "isActive": true,
+    "category": "Engineering"
+  },
+  {
+    "id": "job_002",
+    "title": "UI/UX Designer",
+    "company": "Creative Studios",
+    "description": "Join our design team to craft beautiful and intuitive user interfaces. You will work closely with developers and stakeholders to design products that delight users.\n\nWe value creativity, attention to detail, and a user-first mindset. You will own the design process from wireframes through to final developer handoff.",
+    "imageUrl": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600&auto=format&fit=crop&q=60",
+    "location": "Lahore, Pakistan",
+    "type": "Full-time",
+    "salary": "PKR 150,000 - 250,000",
+    "deadline": "2025-06-30",
+    "requirements": [
+      "2+ years of UI/UX design experience",
+      "Proficiency in Figma or Adobe XD",
+      "Strong portfolio showcasing mobile and web designs",
+      "Knowledge of design systems",
+      "Good communication skills"
+    ],
+    "skills": ["Figma", "Adobe XD", "Prototyping", "User Research", "Design Systems"],
+    "experience": "2-4 years",
+    "postedAt": "2025-05-02T00:00:00Z",
+    "applyUrl": "https://example.com/apply/002",
+    "isActive": true,
+    "category": "Design"
+  },
+  {
+    "id": "job_003",
+    "title": "Backend Node.js Engineer",
+    "company": "DataFlow Systems",
+    "description": "We're looking for a skilled Backend Engineer to design and implement scalable server-side applications. You will build APIs, manage databases, and ensure our platform handles millions of requests reliably.\n\nThis role requires strong problem-solving skills and a passion for clean, efficient code.",
+    "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&auto=format&fit=crop&q=60",
+    "location": "Karachi, Pakistan",
+    "type": "Part-time",
+    "salary": "$30/hr",
+    "deadline": "2025-08-01",
+    "requirements": [
+      "3+ years Node.js / Express.js",
+      "Strong SQL and NoSQL database knowledge",
+      "Experience with REST & GraphQL APIs",
+      "AWS or cloud platform experience",
+      "Docker & Kubernetes basics"
+    ],
+    "skills": ["Node.js", "Express", "PostgreSQL", "MongoDB", "Docker", "AWS"],
+    "experience": "3-6 years",
+    "postedAt": "2025-05-03T00:00:00Z",
+    "applyUrl": "https://example.com/apply/003",
+    "isActive": true,
+    "category": "Engineering"
+  }
+]
