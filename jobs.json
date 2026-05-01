@@ -18,7 +18,7 @@
     "experience": "test",
     "postedAt": "2026-05-01T12:07:27.129",
     "applyUrl": "test",
-    "isActive": true,
+    "isActive": false,
     "category": "test"
   },
   {
