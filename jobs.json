@@ -27,7 +27,7 @@
     "experience": "3-5 years",
     "postedAt": "2025-05-01T00:00:00Z",
     "applyUrl": "https://example.com/apply/001",
-    "isActive": true,
+    "isActive": false,
     "category": "Engineering"
   },
   {
@@ -57,7 +57,7 @@
     "experience": "2-4 years",
     "postedAt": "2025-05-02T00:00:00Z",
     "applyUrl": "https://example.com/apply/002",
-    "isActive": false,
+    "isActive": true,
     "category": "Design"
   },
   {
