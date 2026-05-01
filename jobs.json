@@ -27,7 +27,7 @@
     "experience": "3-5 years",
     "postedAt": "2025-05-01T00:00:00Z",
     "applyUrl": "https://example.com/apply/001",
-    "isActive": false,
+    "isActive": true,
     "category": "Engineering"
   },
   {
