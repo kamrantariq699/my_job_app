@@ -1,27 +1,5 @@
 [
   {
-    "id": "a94acfde-49e6-4ef6-970b-2d67dd70bd97",
-    "title": "test",
-    "company": "test",
-    "description": "test",
-    "imageUrl": "test",
-    "location": "test",
-    "type": "Full-time",
-    "salary": "test",
-    "deadline": "test",
-    "requirements": [
-      "test"
-    ],
-    "skills": [
-      "test"
-    ],
-    "experience": "test",
-    "postedAt": "2026-05-01T12:07:27.129",
-    "applyUrl": "test",
-    "isActive": false,
-    "category": "test"
-  },
-  {
     "id": "job_001",
     "title": "Senior Flutter Developer",
     "company": "TechCorp Inc.",
