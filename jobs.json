@@ -1,5 +1,27 @@
 [
   {
+    "id": "a94acfde-49e6-4ef6-970b-2d67dd70bd97",
+    "title": "test",
+    "company": "test",
+    "description": "test",
+    "imageUrl": "test",
+    "location": "test",
+    "type": "Full-time",
+    "salary": "test",
+    "deadline": "test",
+    "requirements": [
+      "test"
+    ],
+    "skills": [
+      "test"
+    ],
+    "experience": "test",
+    "postedAt": "2026-05-01T12:07:27.129",
+    "applyUrl": "test",
+    "isActive": true,
+    "category": "test"
+  },
+  {
     "id": "job_001",
     "title": "Senior Flutter Developer",
     "company": "TechCorp Inc.",
@@ -16,7 +38,14 @@
       "Familiarity with RESTful APIs",
       "Understanding of CI/CD pipelines"
     ],
-    "skills": ["Flutter", "Dart", "Firebase", "REST APIs", "Git", "BLoC"],
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "REST APIs",
+      "Git",
+      "BLoC"
+    ],
     "experience": "3-5 years",
     "postedAt": "2025-05-01T00:00:00Z",
     "applyUrl": "https://example.com/apply/001",
@@ -40,7 +69,13 @@
       "Knowledge of design systems",
       "Good communication skills"
     ],
-    "skills": ["Figma", "Adobe XD", "Prototyping", "User Research", "Design Systems"],
+    "skills": [
+      "Figma",
+      "Adobe XD",
+      "Prototyping",
+      "User Research",
+      "Design Systems"
+    ],
     "experience": "2-4 years",
     "postedAt": "2025-05-02T00:00:00Z",
     "applyUrl": "https://example.com/apply/002",
@@ -64,7 +99,14 @@
       "AWS or cloud platform experience",
       "Docker & Kubernetes basics"
     ],
-    "skills": ["Node.js", "Express", "PostgreSQL", "MongoDB", "Docker", "AWS"],
+    "skills": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "MongoDB",
+      "Docker",
+      "AWS"
+    ],
     "experience": "3-6 years",
     "postedAt": "2025-05-03T00:00:00Z",
     "applyUrl": "https://example.com/apply/003",
