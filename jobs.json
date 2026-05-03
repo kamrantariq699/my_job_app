@@ -8,7 +8,7 @@
     "location": "Islamabad",
     "type": "Remote",
     "salary": "40000",
-    "deadline": "2025-02-12",
+    "deadline": "2027-02-12",
     "requirements": [
       "no"
     ],
@@ -18,7 +18,7 @@
     "experience": "1",
     "postedAt": "2026-05-03T10:25:11.542",
     "applyUrl": "ok",
-    "isActive": false,
+    "isActive": true,
     "category": "Government / Sarkari"
   },
   {
