@@ -1,5 +1,27 @@
 [
   {
+    "id": "b68eb00c-7b1f-4c0b-a8fc-8ad613a4b9b1",
+    "title": "New Admin",
+    "company": "PTCL",
+    "description": "this is job detail",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/ai.png",
+    "location": "Islamabad",
+    "type": "Remote",
+    "salary": "40000",
+    "deadline": "2025-02-12",
+    "requirements": [
+      "no"
+    ],
+    "skills": [
+      "no"
+    ],
+    "experience": "1",
+    "postedAt": "2026-05-03T10:25:11.542",
+    "applyUrl": "ok",
+    "isActive": true,
+    "category": "Government / Sarkari"
+  },
+  {
     "id": "9e453a78-b8e8-4e84-8e2a-2acc23ceda7a",
     "title": "new image job",
     "company": "company",
