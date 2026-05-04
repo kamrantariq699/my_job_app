@@ -96,13 +96,14 @@
     "type": "Full-time",
     "salary": "Market Competitive",
     "deadline": "Jun 4, 2026",
-    "requirements": [],
-    "skills": [
+    "requirements": [
       "Risk Assessment and Mitigation",
       "Enterprise Risk Management Frameworks",
-      "Stakeholder Engagement",
-      "Project Management",
+      "Stackholder Engaement",
       "Quantitative Risk Assessment (QRA)",
+      "Project Management"
+    ],
+    "skills": [
       "COSO Framework",
       "ISO 31000",
       "Risk Assessment Tools"
