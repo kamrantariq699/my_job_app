@@ -1,5 +1,32 @@
 [
   {
+    "id": "7556b626-6031-4e53-a928-488cd265f3c4",
+    "title": "Manager - Risk Strategy and Oversight, Enterprise Risk Management",
+    "company": "EFU Life Assurance Ltd.",
+    "description": "The Manager will oversee risk governance activities, including managing risk committees, maintaining the enterprise-wide risk register, and developing key risk indicators to monitor and escalate risks appropriately. This position also involves preparing comprehensive risk reports and presentations for senior management and the Board Audit Committee. The Manager leads initiatives in digital transformation to enhance risk function capabilities through technology, drives pilot control testing programs in partnership with internal audit, and promotes continuous learning and development in ERM across the company. Effective leadership and mentorship of the risk team ensure a collaborative environment focused on excellence and strategic risk management.",
+    "imageUrl": "",
+    "location": "Karachi, Pakistan (On-Site)",
+    "type": "Full-time",
+    "salary": "Market Competitive",
+    "deadline": "Jun 4, 2026",
+    "requirements": [],
+    "skills": [
+      "Risk Assessment and Mitigation",
+      "Enterprise Risk Management Frameworks",
+      "Stakeholder Engagement",
+      "Project Management",
+      "Quantitative Risk Assessment (QRA)",
+      "COSO Framework",
+      "ISO 31000",
+      "Risk Assessment Tools"
+    ],
+    "experience": "6 Years",
+    "postedAt": "2026-05-04T11:22:20.581",
+    "applyUrl": "https://apply.rozeegpt.ai/138162?currency=PKR&utm_source=rozeeweb&utm_medium=website&utm_campaign=rozeeweb&utm_suggested=Y&utm_content=job_138162&d=HubMMKiSOxOVApMFuibRtk4VS-9ZHI4Ubj4dKhnvhZaDYpr3ivodH5-D6WFYocOpnuHaRTyK2d7-e451lhp6BKFGv_uvg6lkIUkHs9ACq0aQ1yaUAs27jKFLP4iD9Cm2ZNEdPaph-Da7gSs8QjBSsT6KvsnIS7qIMUEFi6-1CEJJ-VFprjy-lmfzU41Q5FDbxSEa-7x1ml7IDOho_746Q63qoiCtwYwtHRSjfeuZ8UM",
+    "isActive": true,
+    "category": "Banking & Finance"
+  },
+  {
     "id": "job_001",
     "title": "Software Engineer – Flutter",
     "company": "Systems Limited",
@@ -17,7 +44,14 @@
       "Strong problem-solving skills",
       "Good communication in English"
     ],
-    "skills": ["Flutter", "Dart", "Firebase", "REST APIs", "Git", "BLoC"],
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "REST APIs",
+      "Git",
+      "BLoC"
+    ],
     "experience": "2-4 years",
     "postedAt": "2026-05-01T00:00:00Z",
     "applyUrl": "https://www.systemsltd.com/careers",
@@ -42,7 +76,13 @@
       "Good moral character and no criminal record",
       "Medical fitness certificate from government hospital"
     ],
-    "skills": ["Taxation", "Administration", "MS Office", "Report Writing", "Communication"],
+    "skills": [
+      "Taxation",
+      "Administration",
+      "MS Office",
+      "Report Writing",
+      "Communication"
+    ],
     "experience": "Fresh / 0-1 year",
     "postedAt": "2026-05-01T00:00:00Z",
     "applyUrl": "https://www.fpsc.gov.pk",
@@ -67,7 +107,14 @@
       "Excellent leadership and interpersonal skills",
       "Proficient in banking software (T24 preferred)"
     ],
-    "skills": ["Banking Operations", "Team Leadership", "CRM", "Compliance", "Sales", "T24"],
+    "skills": [
+      "Banking Operations",
+      "Team Leadership",
+      "CRM",
+      "Compliance",
+      "Sales",
+      "T24"
+    ],
     "experience": "5-8 years",
     "postedAt": "2026-05-02T00:00:00Z",
     "applyUrl": "https://www.hbl.com/careers",
@@ -92,7 +139,13 @@
       "Age not exceeding 35 years",
       "Good standing with no disciplinary action"
     ],
-    "skills": ["Patient Care", "Clinical Diagnosis", "Emergency Medicine", "PMDC Registered", "Medical Records"],
+    "skills": [
+      "Patient Care",
+      "Clinical Diagnosis",
+      "Emergency Medicine",
+      "PMDC Registered",
+      "Medical Records"
+    ],
     "experience": "1-3 years",
     "postedAt": "2026-05-02T00:00:00Z",
     "applyUrl": "https://www.pims.gov.pk",
@@ -116,7 +169,14 @@
       "Expertise in AI, Machine Learning, or Software Engineering preferred",
       "Excellent communication and presentation skills"
     ],
-    "skills": ["Teaching", "Research", "Python", "Machine Learning", "Academic Writing", "Supervision"],
+    "skills": [
+      "Teaching",
+      "Research",
+      "Python",
+      "Machine Learning",
+      "Academic Writing",
+      "Supervision"
+    ],
     "experience": "3-5 years",
     "postedAt": "2026-05-03T00:00:00Z",
     "applyUrl": "https://www.pu.edu.pk/careers",
@@ -141,7 +201,14 @@
       "Willingness to travel and work on field sites",
       "Strong understanding of AASHTO standards"
     ],
-    "skills": ["AutoCAD", "Road Design", "Project Management", "PEC Registered", "Surveying", "MS Project"],
+    "skills": [
+      "AutoCAD",
+      "Road Design",
+      "Project Management",
+      "PEC Registered",
+      "Surveying",
+      "MS Project"
+    ],
     "experience": "2-5 years",
     "postedAt": "2026-05-03T00:00:00Z",
     "applyUrl": "https://www.nha.gov.pk/careers",
@@ -166,7 +233,14 @@
       "Experience managing a marketing team",
       "E-commerce background is a plus"
     ],
-    "skills": ["Meta Ads", "Google Ads", "SEO", "Google Analytics", "Email Marketing", "Team Management"],
+    "skills": [
+      "Meta Ads",
+      "Google Ads",
+      "SEO",
+      "Google Analytics",
+      "Email Marketing",
+      "Team Management"
+    ],
     "experience": "4-6 years",
     "postedAt": "2026-05-03T00:00:00Z",
     "applyUrl": "https://careers.daraz.pk",
@@ -191,7 +265,13 @@
       "Physically fit with no criminal record",
       "Pass written test conducted by PPSC"
     ],
-    "skills": ["Law Enforcement", "Physical Fitness", "Report Writing", "Communication", "Urdu"],
+    "skills": [
+      "Law Enforcement",
+      "Physical Fitness",
+      "Report Writing",
+      "Communication",
+      "Urdu"
+    ],
     "experience": "Fresh",
     "postedAt": "2026-05-01T00:00:00Z",
     "applyUrl": "https://www.ppsc.gop.pk",
@@ -216,7 +296,14 @@
       "Experience with FBR tax filing and WHT",
       "Excellent MS Excel skills"
     ],
-    "skills": ["SAP", "IFRS", "Tax Filing", "Financial Reporting", "MS Excel", "Internal Audit"],
+    "skills": [
+      "SAP",
+      "IFRS",
+      "Tax Filing",
+      "Financial Reporting",
+      "MS Excel",
+      "Internal Audit"
+    ],
     "experience": "4-6 years",
     "postedAt": "2026-05-02T00:00:00Z",
     "applyUrl": "https://www.engro.com/careers",
@@ -241,7 +328,14 @@
       "Excellent interpersonal and coaching skills",
       "SAP HR module experience is a plus"
     ],
-    "skills": ["Talent Management", "Labor Law", "Employee Relations", "OD", "SAP HR", "Recruitment"],
+    "skills": [
+      "Talent Management",
+      "Labor Law",
+      "Employee Relations",
+      "OD",
+      "SAP HR",
+      "Recruitment"
+    ],
     "experience": "4-6 years",
     "postedAt": "2026-05-02T00:00:00Z",
     "applyUrl": "https://www.unilever.com/careers",
@@ -266,7 +360,14 @@
       "Strong knowledge of current affairs in Pakistan",
       "Experience with CMS platforms"
     ],
-    "skills": ["Journalism", "Content Writing", "Editing", "SEO Writing", "Research", "CMS"],
+    "skills": [
+      "Journalism",
+      "Content Writing",
+      "Editing",
+      "SEO Writing",
+      "Research",
+      "CMS"
+    ],
     "experience": "2-4 years",
     "postedAt": "2026-05-03T00:00:00Z",
     "applyUrl": "https://www.dawn.com/careers",
@@ -291,7 +392,13 @@
       "Strong drafting and negotiation skills",
       "Fluent in English and Urdu"
     ],
-    "skills": ["Corporate Law", "Contract Drafting", "Regulatory Compliance", "Litigation", "Negotiation"],
+    "skills": [
+      "Corporate Law",
+      "Contract Drafting",
+      "Regulatory Compliance",
+      "Litigation",
+      "Negotiation"
+    ],
     "experience": "5-8 years",
     "postedAt": "2026-05-01T00:00:00Z",
     "applyUrl": "https://www.jazz.com.pk/careers",
@@ -316,7 +423,14 @@
       "Excellent contractor and vendor management skills",
       "Experience with high-rise residential buildings"
     ],
-    "skills": ["Primavera P6", "AutoCAD", "Project Planning", "Cost Control", "Contract Management", "PMP"],
+    "skills": [
+      "Primavera P6",
+      "AutoCAD",
+      "Project Planning",
+      "Cost Control",
+      "Contract Management",
+      "PMP"
+    ],
     "experience": "7-10 years",
     "postedAt": "2026-05-02T00:00:00Z",
     "applyUrl": "https://www.bahriatown.com/careers",
@@ -341,7 +455,14 @@
       "Fluent in English, Urdu, and Pashto preferred",
       "Willingness to travel to field sites"
     ],
-    "skills": ["Programme Management", "M&E", "Report Writing", "Data Analysis", "Pashto", "Protection"],
+    "skills": [
+      "Programme Management",
+      "M&E",
+      "Report Writing",
+      "Data Analysis",
+      "Pashto",
+      "Protection"
+    ],
     "experience": "4-6 years",
     "postedAt": "2026-05-01T00:00:00Z",
     "applyUrl": "https://www.unhcr.org/pakistan",
@@ -366,7 +487,13 @@
       "Must pass ISSB tests (psychological, physical, intelligence)",
       "Unmarried at time of joining"
     ],
-    "skills": ["Leadership", "Physical Fitness", "Discipline", "Communication", "Teamwork"],
+    "skills": [
+      "Leadership",
+      "Physical Fitness",
+      "Discipline",
+      "Communication",
+      "Teamwork"
+    ],
     "experience": "Fresh Graduate",
     "postedAt": "2026-05-03T00:00:00Z",
     "applyUrl": "https://www.joinpakarmy.gov.pk",
@@ -391,7 +518,14 @@
       "Customer-focused attitude",
       "Previous call center experience is a plus"
     ],
-    "skills": ["Customer Service", "Communication", "MS Office", "Problem Solving", "CRM", "Urdu"],
+    "skills": [
+      "Customer Service",
+      "Communication",
+      "MS Office",
+      "Problem Solving",
+      "CRM",
+      "Urdu"
+    ],
     "experience": "Fresh / 0-2 years",
     "postedAt": "2026-05-01T00:00:00Z",
     "applyUrl": "https://www.tplinsurance.com/careers",
@@ -415,7 +549,14 @@
       "Ability to meet deadlines",
       "Students in final year are welcome to apply"
     ],
-    "skills": ["Figma", "Photoshop", "Illustrator", "Social Media Design", "Typography", "Branding"],
+    "skills": [
+      "Figma",
+      "Photoshop",
+      "Illustrator",
+      "Social Media Design",
+      "Typography",
+      "Branding"
+    ],
     "experience": "1-2 years",
     "postedAt": "2026-05-02T00:00:00Z",
     "applyUrl": "https://www.rozee.pk/careers",
@@ -440,7 +581,15 @@
       "Excellent written English communication",
       "Ability to work independently in a remote environment"
     ],
-    "skills": ["React.js", "Node.js", "PostgreSQL", "AWS", "TypeScript", "Docker", "REST APIs"],
+    "skills": [
+      "React.js",
+      "Node.js",
+      "PostgreSQL",
+      "AWS",
+      "TypeScript",
+      "Docker",
+      "REST APIs"
+    ],
     "experience": "3-5 years",
     "postedAt": "2026-05-03T00:00:00Z",
     "applyUrl": "https://arbisoft.com/careers",
@@ -465,7 +614,15 @@
       "Experience with Cisco and Huawei equipment",
       "Willingness to work in 24/7 shift environment"
     ],
-    "skills": ["CCNA", "Cisco", "BGP", "OSPF", "MPLS", "Network Monitoring", "Huawei"],
+    "skills": [
+      "CCNA",
+      "Cisco",
+      "BGP",
+      "OSPF",
+      "MPLS",
+      "Network Monitoring",
+      "Huawei"
+    ],
     "experience": "2-4 years",
     "postedAt": "2026-05-01T00:00:00Z",
     "applyUrl": "https://www.ptcl.com.pk/careers",
@@ -490,7 +647,13 @@
       "Patient and nurturing personality",
       "Proficiency in English"
     ],
-    "skills": ["Cambridge Curriculum", "Lesson Planning", "Classroom Management", "MS Office", "Child Development"],
+    "skills": [
+      "Cambridge Curriculum",
+      "Lesson Planning",
+      "Classroom Management",
+      "MS Office",
+      "Child Development"
+    ],
     "experience": "1-3 years",
     "postedAt": "2026-05-02T00:00:00Z",
     "applyUrl": "https://www.beaconhouse.edu.pk/careers",
