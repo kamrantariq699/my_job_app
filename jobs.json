@@ -1,5 +1,33 @@
 [
   {
+    "id": "ba7d4014-ac91-41a1-b12c-6357d2af4535",
+    "title": "Graphic Designer Intern",
+    "company": "EWDtech Software Company",
+    "description": "We are looking for a creative and motivated Graphic Designer Intern to join our team. This internship is ideal for fresh graduates who have basic knowledge of graphic design and want to gain real-world experience.\n\nKey Responsibilities:\n\nAssist in creating visual content for social media, websites, and marketing materials.\n\nHelp design banners, flyers, posters, and other promotional materials.\n\nSupport the senior design team in daily tasks and projects.\n\nLearn and apply design principles, color schemes, and typography.\n\nContribute ideas for creative campaigns and design improvements.",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_6u2m3g6u2m3g6u2m.png",
+    "location": "Faisalabad",
+    "type": "Internship",
+    "salary": "10,000 – 12,000 PKR",
+    "deadline": "Jul 1, 2026",
+    "requirements": [
+      "Fresh graduate in Graphic Design, Visual Arts, or a related field.",
+      "Basic knowledge of design software like Adobe Photoshop, Illustrator, or Canva.",
+      "Creative mindset with attention to detail.",
+      "Good communication and willingness to learn.",
+      "Ability to meet deadlines and work in a team."
+    ],
+    "skills": [
+      "Canva",
+      "Illustrator",
+      "Adobe Photoshop"
+    ],
+    "experience": "< 1 Year",
+    "postedAt": "2026-05-05T18:38:40.579",
+    "applyUrl": null,
+    "isActive": true,
+    "category": "IT & Software"
+  },
+  {
     "id": "a7045731-5fd4-4569-bcbc-146bd72ecdd2",
     "title": "HR Manager",
     "company": "HELP 360 MD",
