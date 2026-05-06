@@ -1,5 +1,40 @@
 [
   {
+    "id": "304c1578-b9a3-4038-9823-2c4029cf23d4",
+    "title": "Social Media Handler",
+    "company": "Nexskills",
+    "description": "This is a full-time, on-site Social Media Handler role based in Lahore District.\nThe social media Handler will be responsible for creating, curating, and managing content for all social media platforms, ensuring brand consistency across channels. Daily tasks include scheduling posts, monitoring analytics, managing online communities, and engaging with audiences to increase reach and grow the brand’s digital presence. This role requires staying updated with industry trends, running social media campaigns, and collaborating with other departments for cohesive branding.",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_6x2r2s6x2r2s6x2r.png",
+    "location": "Lahore",
+    "type": "Full-time",
+    "salary": "50,000 - 60,000 PKR",
+    "deadline": "May 31, 2026",
+    "requirements": [
+      "Minimum of a Bachelors degree (14 years).",
+      "Marketing, Media, or Communication Studies.",
+      "At least 2 years of experience in social media management or a related field.",
+      "Candidates must be between 22 and 40 years old.",
+      "Proven ability to create, curate, and manage content across all social media platforms.",
+      "Proficiency in scheduling posts and monitoring social media analytics.",
+      "Experience in managing online communities and engaging with audiences to grow brand reach.",
+      "Ability to stay updated with current digital trends and run effective social media campaigns.",
+      "Skill in collaborating with other departments to ensure cohesive and consistent branding.",
+      "Must be available for a full-time, on-site morning shift in Lahore."
+    ],
+    "skills": [
+      "Content Strategy",
+      "Platform Management",
+      "Data Analytics",
+      "Trend Analysis",
+      "Campaign Execution"
+    ],
+    "experience": "2 Year(s)",
+    "postedAt": "2026-05-06T11:34:14.588",
+    "applyUrl": "mailto:trainings@nexskill.com?subject=Application%20for%20Social%20Media%20Handler&body=Dear%20Hiring%20Manager%2C%0A%0AI%20am%20writing%20to%20apply%20for%20the%20Social%20Media%20Handler%20position%20at%20Nexskill.%20I%20have%20over%202%20years%20of%20experience%20in%20managing%20social%20media%20platforms%2C%20creating%20engaging%20content%2C%20and%20growing%20online%20communities.%0A%0AI%20am%20skilled%20in%20content%20creation%2C%20analytics%2C%20and%20campaign%20management%2C%20with%20a%20strong%20understanding%20of%20current%20digital%20trends.%20I%20am%20confident%20in%20my%20ability%20to%20contribute%20to%20your%20team%20and%20enhance%20your%20brand%E2%80%99s%20online%20presence.%0A%0AI%20would%20welcome%20the%20opportunity%20to%20discuss%20my%20application%20further.%0A%0AThank%20you%20for%20your%20time%20and%20consideration.%0A%0AKind%20regards",
+    "isActive": true,
+    "category": "Sales & Marketing"
+  },
+  {
     "id": "ba7d4014-ac91-41a1-b12c-6357d2af4535",
     "title": "Graphic Designer Intern",
     "company": "EWDtech Software Company",
