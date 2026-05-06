@@ -1,5 +1,36 @@
 [
   {
+    "id": "344bd1a1-0c47-4810-8bb2-b4acc7e4f44e",
+    "title": "Logo Designer",
+    "company": "Ezec Production",
+    "description": "Ezec Production is a modern digital agency based in Hyderabad, dedicated to helping businesses grow online. We specialize in custom web development, branding, e-commerce solutions, and digital marketing services. Our mission is to provide brands with a strong digital identity through clean design and smart strategies. We are currently seeking a talented Logo Designer with 3 years of experience to join our creative team.",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_ljazwiljazwiljaz.png",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "15,000 – 25,000 PKR",
+    "deadline": "Dec 29, 2026",
+    "requirements": [
+      "Design unique and innovative logos that align with our client's brand identities.",
+      "Collaborate with clients to understand their vision and requirements.",
+      "Create high-quality visual concepts and present them to clients.",
+      "Revise designs based on feedback and deliver final artwork for print and digital use.",
+      "Stay current with industry trends and design tools to maintain a competitive edge."
+    ],
+    "skills": [
+      "Adobe Illustrator",
+      "Photoshop",
+      "InDesign",
+      "Typography",
+      "Communication and Collaboration",
+      "Creative mindset"
+    ],
+    "experience": "3 Years",
+    "postedAt": "2026-05-06T19:34:29.374",
+    "applyUrl": "mailto:info@ezecproduction.com?subject=Application%20for%20Logo%20Designer&body=Dear%20Hiring%20Manager%2C%0A%0AI%20am%20writing%20to%20apply%20for%20the%20Logo%20Designer%20position%20at%20Ezec%20Production.%20With%203%20years%20of%20experience%20in%20graphic%20design%2C%20I%20specialize%20in%20creating%20unique%20and%20impactful%20logos%20that%20reflect%20strong%20brand%20identities.%0A%0AI%20am%20proficient%20in%20Adobe%20Illustrator%2C%20Photoshop%2C%20and%20InDesign%2C%20with%20a%20solid%20understanding%20of%20color%20theory%2C%20typography%2C%20and%20branding%20principles.%20I%20have%20experience%20working%20closely%20with%20clients%20to%20deliver%20creative%20solutions%20that%20meet%20their%20vision%20and%20business%20goals.%0A%0AI%20have%20attached%20my%20portfolio%20for%20your%20review%20and%20would%20welcome%20the%20opportunity%20to%20contribute%20to%20your%20creative%20team.%0A%0AThank%20you%20for%20your%20time%20and%20consideration.%0A%0AKind%20regards",
+    "isActive": true,
+    "category": "IT & Software"
+  },
+  {
     "id": "c06fe9a5-80bc-4d3a-a2dc-03f77ead9945",
     "title": "Social Media & Digital Marketing Manager",
     "company": "3A Pakistan",
