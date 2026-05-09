@@ -1,5 +1,40 @@
 [
   {
+    "id": "fe7bf44e-cfb2-4a91-b364-85ed5942b1ad",
+    "title": "Digital Marketing Manager",
+    "company": "Matech Co",
+    "description": "Key Responsibilities:\n\nDevelop and execute comprehensive digital marketing strategies aligned with business goals\n\nLead SEO strategy including on-page, off-page, and technical SEO to improve organic rankings and traffic\n\nManage and optimize paid campaigns (Google Ads, Meta Ads, LinkedIn Ads, etc.)\n\nOversee content marketing, ensuring high-quality and engaging content across platforms\n\nAnalyze campaign performance using tools like Google Analytics, Search Console, and other marketing platforms\n\nDrive lead generation and conversion rate optimization (CRO) initiatives\n\nManage social media strategy and brand positioning\n\nCollaborate with design, development, and sales teams for integrated campaigns\n\nStay updated with the latest digital marketing trends, tools, and best practices\n\nLead and mentor junior marketing team members",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_52tfmb52tfmb52tf.png",
+    "location": "Karachi",
+    "type": "Full-time",
+    "salary": "300,000 – 350,000 PKR",
+    "deadline": "Aug 9, 2026",
+    "requirements": [
+      "Bachelor’s degree in Marketing, Business, or related field",
+      "5–8+ years of experience in digital marketing, with at least 2+ years in a senior/lead role",
+      "Strong expertise in SEO (technical + content + backlinks)",
+      "Hands-on experience with Google Ads, Meta Ads, and other paid platforms",
+      "Proficiency in tools like Google Analytics, SEMrush, Ahrefs, etc.",
+      "Excellent analytical and problem-solving skills",
+      "Strong communication and leadership abilities"
+    ],
+    "skills": [
+      "Digital Marketing Strategy",
+      "SEO",
+      "Google Ads",
+      "LinkedIn Ads",
+      "Lead Generation",
+      "Google Analytics",
+      "CRO",
+      "Brand Strategy"
+    ],
+    "experience": "3 Years",
+    "postedAt": "2026-05-09T18:51:49.835",
+    "applyUrl": "mailto:info@matechco.com?subject=Application%20for%20Digital%20Marketing%20Manager&body=Dear%20Hiring%20Manager%2C%0A%0AI%20am%20writing%20to%20apply%20for%20the%20Digital%20Marketing%20Manager%20position%20at%20Matech%20Co.%0A%0AI%20have%20%5BEnter%20Years%20of%20Experience%5D%20years%20of%20experience%20in%20digital%20marketing%2C%20including%20SEO%2C%20paid%20campaigns%2C%20and%20content%20strategy.%0A%0AI%20have%20skills%20in%3A%20%5BSEO%2C%20Google%20Ads%2C%20Meta%20Ads%2C%20LinkedIn%20Ads%2C%20Analytics%20Tools%20like%20GA4%2C%20SEMrush%2C%20Ahrefs%5D.%0A%0AI%20am%20experienced%20in%20%5BLead%20Generation%2C%20CRO%2C%20Social%20Media%20Strategy%2C%20Content%20Marketing%5D%20and%20have%20worked%20on%20driving%20measurable%20growth%20for%20businesses.%0A%0AEducation%3A%20%5BYour%20Degree%5D%0A%0ALocation%3A%20%5BYour%20Location%5D%0A%0AAvailability%3A%20%5BYour%20Availability%5D%0A%0AI%20am%20a%20results-driven%20and%20detail-oriented%20professional%20with%20strong%20leadership%20and%20analytical%20skills.%20I%20would%20love%20to%20contribute%20to%20Matech%20Co%E2%80%99s%20growth.%0A%0AThank%20you%20for%20your%20time%20and%20consideration.%0A%0AKind%20regards%2C%0A%5BYour%20Name%5D%0A%5BYour%20Phone%20Number%5D%0A%5BYour%20Email%20Address%5D",
+    "isActive": true,
+    "category": "Sales & Marketing"
+  },
+  {
     "id": "4103fd77-f46c-4a09-b298-e4779dcbd1c6",
     "title": "Social Media Manager",
     "company": "Khargosht (Smc-Pvt) Ltd.",
