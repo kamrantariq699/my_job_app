@@ -1,5 +1,41 @@
 [
   {
+    "id": "6b4c957b-efd1-4425-9a14-2b0f9a349a67",
+    "title": "Associate Director",
+    "company": "MICADR",
+    "description": "MICADR is at an inflection point. We have built something rare: a Federal Government and Sindh Hight Court notified mediation centre with Supreme Court patronage, IMI accreditation, a trained practitioner network, and an established roster of corporate members and judicial partners.\n\nThe Associate Director will be a person who builds a financial infrastructure working towards self-sustainability of MICADR. This is a leadership role with full authority to build the team, set the commercial direction, and drive MICADR to financial independence within a defined three-year horizon. You will report directly to the Chief Executive Officer and lead an organisation whose institutional assets are genuinely difficult to replicate.\n\nKey responsibilities\nOwn MICADR's Financial Performance: Set annual revenue targets across MICADR's three pillars - training, cases, and corporate membership - monitor monthly performance, and hold pillar leads accountable to outcomes. The incumbent will also be expected to create out of the box options to enhance and consolidate the financial health of MICADR\nLead Senior Business Development: Build and maintain relationships with corporates, law firms, chambers of commerce, judicial institutions, and government bodies etc. MICADR's growth depends on converting institutional credibility into a pipeline, and the BD leads that effort at the senior level.\nBuild and Manage the Team: Recruit, onboard, and manage the Training Manager, Cases Manager, BD & Membership Manager, and Operations Officer. Set a performance culture from day one.\nRepresent MICADR Externally: Conferences, regulatory engagements, media appearances, judicial forums, and stakeholder events. MICADR needs a credible public face who can hold a room.\nReport to the Board: Quarterly P&L presentations with clear analysis of revenue performance, pipeline status, and forward outlook. The Board sets strategy; the AD executes it.",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_5ge9v85ge9v85ge9.png",
+    "location": "Karachi",
+    "type": "Contract",
+    "salary": "Not Disclosed",
+    "deadline": "May 30, 2026",
+    "requirements": [
+      "Minimum 10 years of leadership experience in professional services, institutional management, ADR practice, or a related field.",
+      "A demonstrable track record of owning revenue targets and delivering results",
+      "Credibility in the Corporate and/or legal market, with an existing senior network you are prepared to activate.",
+      "The management instinct to build a high-performing team and hold it accountable without micromanagement.",
+      "Bachelor’s or Master’s degree in Finance, Economics, Marketing, Management, or related fields will be preferred; professional qualifications such as IMI accreditation or equivalent ADR certification will be considered an added advantage."
+    ],
+    "skills": [
+      "Leadership",
+      "Corporate Relations",
+      "Public Speaking",
+      "Negotiation",
+      "P&L Reporting",
+      "Governance",
+      "Relationship Building",
+      "ADR Practice",
+      "Communication Skills",
+      "Decision Making",
+      "Operations Management"
+    ],
+    "experience": "10 Years",
+    "postedAt": "2026-05-10T20:30:17.401",
+    "applyUrl": "https://www.las.org.pk/jobs/24/",
+    "isActive": true,
+    "category": "Legal"
+  },
+  {
     "id": "0a02b9b4-926f-4f01-92a2-c31207f8ed26",
     "title": "Line Engineer",
     "company": "Gourmet",
@@ -973,36 +1009,37 @@
     "category": "Sales & Marketing"
   },
   {
-    "id": "job_011",
-    "title": "Journalist / Content Writer",
-    "company": "Dawn Media Group",
-    "description": "Dawn Media Group, Pakistan's most trusted English language media organization, is looking for talented journalists and content writers for its digital news desk in Karachi.\n\nYou will be responsible for writing news articles, features, and analysis pieces for Dawn.com and the Dawn newspaper covering national, political, and business topics.",
-    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&auto=format&fit=crop&q=60",
-    "location": "Karachi, Pakistan",
+    "id": "job_018",
+    "title": "Full Stack Developer (Remote)",
+    "company": "Arbisoft",
+    "description": "Arbisoft, one of Pakistan's top software houses with US and European clients, is hiring a Full Stack Developer for a remote-first position. You will work directly with an international client building a SaaS product used by thousands of businesses globally.\n\nArbisoft is an award-winning company recognized in the Inc. 5000 list with offices in Lahore and San Francisco. You will work Pakistan hours with flexibility.",
+    "imageUrl": "https://images.unsplash.com/photo-1607706189992-eae578626c86?w=600&auto=format&fit=crop&q=60",
+    "location": "Remote (Lahore Office Optional)",
     "type": "Full-time",
-    "salary": "PKR 90,000 - 150,000",
-    "deadline": "2026-06-12",
+    "salary": "$1,500 - $3,000 / month",
+    "deadline": "2026-07-05",
     "requirements": [
-      "Bachelor's in Journalism, Mass Communication, or English Literature",
-      "2+ years of journalism or content writing experience",
-      "Excellent English writing and editing skills",
-      "Ability to work under tight deadlines",
-      "Strong knowledge of current affairs in Pakistan",
-      "Experience with CMS platforms"
+      "3+ years of full-stack development experience",
+      "Strong proficiency in React.js and Node.js",
+      "Experience with PostgreSQL or MongoDB",
+      "Familiarity with AWS or cloud infrastructure",
+      "Excellent written English communication",
+      "Ability to work independently in a remote environment"
     ],
     "skills": [
-      "Journalism",
-      "Content Writing",
-      "Editing",
-      "SEO Writing",
-      "Research",
-      "CMS"
+      "React.js",
+      "Node.js",
+      "PostgreSQL",
+      "AWS",
+      "TypeScript",
+      "Docker",
+      "REST APIs"
     ],
-    "experience": "2-4 years",
+    "experience": "3-5 years",
     "postedAt": "2026-05-03T00:00:00Z",
-    "applyUrl": "https://www.dawn.com/careers",
+    "applyUrl": "https://arbisoft.com/careers",
     "isActive": true,
-    "category": "Media & Journalism"
+    "category": "Freelance & Remote"
   },
   {
     "id": "job_015",
@@ -1036,37 +1073,36 @@
     "category": "Defence"
   },
   {
-    "id": "job_018",
-    "title": "Full Stack Developer (Remote)",
-    "company": "Arbisoft",
-    "description": "Arbisoft, one of Pakistan's top software houses with US and European clients, is hiring a Full Stack Developer for a remote-first position. You will work directly with an international client building a SaaS product used by thousands of businesses globally.\n\nArbisoft is an award-winning company recognized in the Inc. 5000 list with offices in Lahore and San Francisco. You will work Pakistan hours with flexibility.",
-    "imageUrl": "https://images.unsplash.com/photo-1607706189992-eae578626c86?w=600&auto=format&fit=crop&q=60",
-    "location": "Remote (Lahore Office Optional)",
+    "id": "job_011",
+    "title": "Journalist / Content Writer",
+    "company": "Dawn Media Group",
+    "description": "Dawn Media Group, Pakistan's most trusted English language media organization, is looking for talented journalists and content writers for its digital news desk in Karachi.\n\nYou will be responsible for writing news articles, features, and analysis pieces for Dawn.com and the Dawn newspaper covering national, political, and business topics.",
+    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&auto=format&fit=crop&q=60",
+    "location": "Karachi, Pakistan",
     "type": "Full-time",
-    "salary": "$1,500 - $3,000 / month",
-    "deadline": "2026-07-05",
+    "salary": "PKR 90,000 - 150,000",
+    "deadline": "2026-06-12",
     "requirements": [
-      "3+ years of full-stack development experience",
-      "Strong proficiency in React.js and Node.js",
-      "Experience with PostgreSQL or MongoDB",
-      "Familiarity with AWS or cloud infrastructure",
-      "Excellent written English communication",
-      "Ability to work independently in a remote environment"
+      "Bachelor's in Journalism, Mass Communication, or English Literature",
+      "2+ years of journalism or content writing experience",
+      "Excellent English writing and editing skills",
+      "Ability to work under tight deadlines",
+      "Strong knowledge of current affairs in Pakistan",
+      "Experience with CMS platforms"
     ],
     "skills": [
-      "React.js",
-      "Node.js",
-      "PostgreSQL",
-      "AWS",
-      "TypeScript",
-      "Docker",
-      "REST APIs"
+      "Journalism",
+      "Content Writing",
+      "Editing",
+      "SEO Writing",
+      "Research",
+      "CMS"
     ],
-    "experience": "3-5 years",
+    "experience": "2-4 years",
     "postedAt": "2026-05-03T00:00:00Z",
-    "applyUrl": "https://arbisoft.com/careers",
+    "applyUrl": "https://www.dawn.com/careers",
     "isActive": true,
-    "category": "Freelance & Remote"
+    "category": "Media & Journalism"
   },
   {
     "id": "job_004",
