@@ -146,7 +146,7 @@
     "location": "Multan",
     "type": "Full-time",
     "salary": "Negotiable",
-    "deadline": "May 24,2026",
+    "deadline": "May 24, 2026",
     "requirements": [
       "BS Mechanical or BS Electrical degree required.",
       "2–3 years of experience in production or manufacturing operations.",
@@ -1111,36 +1111,37 @@
     "category": "Sales & Marketing"
   },
   {
-    "id": "job_011",
-    "title": "Journalist / Content Writer",
-    "company": "Dawn Media Group",
-    "description": "Dawn Media Group, Pakistan's most trusted English language media organization, is looking for talented journalists and content writers for its digital news desk in Karachi.\n\nYou will be responsible for writing news articles, features, and analysis pieces for Dawn.com and the Dawn newspaper covering national, political, and business topics.",
-    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&auto=format&fit=crop&q=60",
-    "location": "Karachi, Pakistan",
+    "id": "job_018",
+    "title": "Full Stack Developer (Remote)",
+    "company": "Arbisoft",
+    "description": "Arbisoft, one of Pakistan's top software houses with US and European clients, is hiring a Full Stack Developer for a remote-first position. You will work directly with an international client building a SaaS product used by thousands of businesses globally.\n\nArbisoft is an award-winning company recognized in the Inc. 5000 list with offices in Lahore and San Francisco. You will work Pakistan hours with flexibility.",
+    "imageUrl": "https://images.unsplash.com/photo-1607706189992-eae578626c86?w=600&auto=format&fit=crop&q=60",
+    "location": "Remote (Lahore Office Optional)",
     "type": "Full-time",
-    "salary": "PKR 90,000 - 150,000",
-    "deadline": "2026-06-12",
+    "salary": "$1,500 - $3,000 / month",
+    "deadline": "2026-07-05",
     "requirements": [
-      "Bachelor's in Journalism, Mass Communication, or English Literature",
-      "2+ years of journalism or content writing experience",
-      "Excellent English writing and editing skills",
-      "Ability to work under tight deadlines",
-      "Strong knowledge of current affairs in Pakistan",
-      "Experience with CMS platforms"
+      "3+ years of full-stack development experience",
+      "Strong proficiency in React.js and Node.js",
+      "Experience with PostgreSQL or MongoDB",
+      "Familiarity with AWS or cloud infrastructure",
+      "Excellent written English communication",
+      "Ability to work independently in a remote environment"
     ],
     "skills": [
-      "Journalism",
-      "Content Writing",
-      "Editing",
-      "SEO Writing",
-      "Research",
-      "CMS"
+      "React.js",
+      "Node.js",
+      "PostgreSQL",
+      "AWS",
+      "TypeScript",
+      "Docker",
+      "REST APIs"
     ],
-    "experience": "2-4 years",
+    "experience": "3-5 years",
     "postedAt": "2026-05-03T00:00:00Z",
-    "applyUrl": "https://www.dawn.com/careers",
+    "applyUrl": "https://arbisoft.com/careers",
     "isActive": true,
-    "category": "Media & Journalism"
+    "category": "Freelance & Remote"
   },
   {
     "id": "job_015",
@@ -1174,37 +1175,36 @@
     "category": "Defence"
   },
   {
-    "id": "job_018",
-    "title": "Full Stack Developer (Remote)",
-    "company": "Arbisoft",
-    "description": "Arbisoft, one of Pakistan's top software houses with US and European clients, is hiring a Full Stack Developer for a remote-first position. You will work directly with an international client building a SaaS product used by thousands of businesses globally.\n\nArbisoft is an award-winning company recognized in the Inc. 5000 list with offices in Lahore and San Francisco. You will work Pakistan hours with flexibility.",
-    "imageUrl": "https://images.unsplash.com/photo-1607706189992-eae578626c86?w=600&auto=format&fit=crop&q=60",
-    "location": "Remote (Lahore Office Optional)",
+    "id": "job_011",
+    "title": "Journalist / Content Writer",
+    "company": "Dawn Media Group",
+    "description": "Dawn Media Group, Pakistan's most trusted English language media organization, is looking for talented journalists and content writers for its digital news desk in Karachi.\n\nYou will be responsible for writing news articles, features, and analysis pieces for Dawn.com and the Dawn newspaper covering national, political, and business topics.",
+    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&auto=format&fit=crop&q=60",
+    "location": "Karachi, Pakistan",
     "type": "Full-time",
-    "salary": "$1,500 - $3,000 / month",
-    "deadline": "2026-07-05",
+    "salary": "PKR 90,000 - 150,000",
+    "deadline": "2026-06-12",
     "requirements": [
-      "3+ years of full-stack development experience",
-      "Strong proficiency in React.js and Node.js",
-      "Experience with PostgreSQL or MongoDB",
-      "Familiarity with AWS or cloud infrastructure",
-      "Excellent written English communication",
-      "Ability to work independently in a remote environment"
+      "Bachelor's in Journalism, Mass Communication, or English Literature",
+      "2+ years of journalism or content writing experience",
+      "Excellent English writing and editing skills",
+      "Ability to work under tight deadlines",
+      "Strong knowledge of current affairs in Pakistan",
+      "Experience with CMS platforms"
     ],
     "skills": [
-      "React.js",
-      "Node.js",
-      "PostgreSQL",
-      "AWS",
-      "TypeScript",
-      "Docker",
-      "REST APIs"
+      "Journalism",
+      "Content Writing",
+      "Editing",
+      "SEO Writing",
+      "Research",
+      "CMS"
     ],
-    "experience": "3-5 years",
+    "experience": "2-4 years",
     "postedAt": "2026-05-03T00:00:00Z",
-    "applyUrl": "https://arbisoft.com/careers",
+    "applyUrl": "https://www.dawn.com/careers",
     "isActive": true,
-    "category": "Freelance & Remote"
+    "category": "Media & Journalism"
   },
   {
     "id": "job_004",
