@@ -1,5 +1,51 @@
 [
   {
+    "id": "f42e3da2-fc5e-4797-82ac-0522703dddb8",
+    "title": "Android Developer",
+    "company": "inDrive",
+    "description": "The team works on internal user communications — including advertising and marketing messages — as well as interface personalization based on user needs and displaying personalized widgets within the application.\n\nKey Responsibilities\n\n- Develop and maintain Android apps with Kotlin, Jetpack Compose.\n- Collaborate with cross-functional teams on feature design, system architecture and A/B experiments.\n- Identify and resolve bugs, performance bottlenecks, offline-storage and threading issues using Android Studio Profilers and network-debugging tools (e.g., Charles, Proxyman, Network Inspector).\n- Guarantee code quality through unit tests and pull-request practices that meet community guidelines.\n- Take part in sprint planning and task decomposition; consider Google Play requirements in delivery.\n\nConditions & Benefits\n\n- Stable salary, official employment\n- Health insurance\n- Hybrid work mode and flexible schedule\n- Discount club membership\n- Diverse internal training programs\n- Partially or fully paid additional training courses\n- All necessary work equipment",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_yd5csvyd5csvyd5c.png",
+    "location": "Pakistan",
+    "type": "Hybrid",
+    "salary": "Not Disclosed",
+    "deadline": "June 5, 2026",
+    "requirements": [
+      "4+ years of commercial Android development.",
+      "Strong grasp of Android SDK, Kotlin, Jetpack (Compose, WorkManager), experience with Retrofit/OkHttp, DataStore, Coroutines.",
+      "Experience with offline storage and multithreading/modern concurrency (Coroutines).",
+      "Familiarity with RESTful APIs; experience with network debugging.",
+      "Base knowledge in Computer Science; Git proficiency (branches, PRs, responding to reviews).",
+      "Understanding of Clean Architecture and common patterns (MVVM/MVI) with the ability to apply them in practice."
+    ],
+    "skills": [
+      "Kotlin",
+      "Coroutines",
+      "MVVM",
+      "Android Development",
+      "Android SDK",
+      "Jetpack Compose",
+      "WorkManager",
+      "Retrofit",
+      "OkHttp",
+      "Multithreading",
+      "REST APIs",
+      "DataStore",
+      "Android Studio",
+      "Network Debugging",
+      "Git",
+      "Clean Architecture",
+      "MVI",
+      "Unit Testing",
+      "Sprint Planning",
+      "Bug Fixing"
+    ],
+    "experience": "4+ Years",
+    "postedAt": "2026-05-14T20:49:05.895",
+    "applyUrl": "https://indrive.pinpointhq.com/en/postings/b86dcce9-38fd-4edc-9a27-21a81be80e4b/applications/new",
+    "isActive": true,
+    "category": "IT & Software"
+  },
+  {
     "id": "ebde1e32-c1c2-4e95-98bb-9f1d88a90b67",
     "title": "Customer Success Specialist",
     "company": "ibex. Pakistan",
@@ -1288,35 +1334,36 @@
     "category": "Banking & Finance"
   },
   {
-    "id": "job_005",
-    "title": "Assistant Professor – Computer Science",
-    "company": "University of the Punjab",
-    "description": "The University of the Punjab, one of Pakistan's oldest and most prestigious universities, invites applications for the position of Assistant Professor in the Department of Computer Science, Lahore.\n\nThe successful candidate will be responsible for teaching undergraduate and postgraduate courses, supervising student research projects, and contributing to departmental research activities.",
-    "imageUrl": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&auto=format&fit=crop&q=60",
+    "id": "job_007",
+    "title": "Digital Marketing Manager",
+    "company": "Daraz Pakistan",
+    "description": "Daraz, Pakistan's leading e-commerce platform and part of Alibaba Group, is looking for a Digital Marketing Manager to lead performance marketing campaigns across social media, search, and display channels.\n\nYou will manage a team of 5 marketing specialists, oversee a multi-million PKR advertising budget, and be responsible for user acquisition and retention strategies.",
+    "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&auto=format&fit=crop&q=60",
     "location": "Lahore, Pakistan",
     "type": "Full-time",
-    "salary": "PKR 180,000 - 250,000",
-    "deadline": "2026-07-01",
+    "salary": "PKR 250,000 - 400,000",
+    "deadline": "2026-06-10",
     "requirements": [
-      "PhD in Computer Science or related field (or near completion)",
-      "Strong research publications record",
-      "Experience in teaching at university level",
-      "Expertise in AI, Machine Learning, or Software Engineering preferred",
-      "Excellent communication and presentation skills"
+      "Bachelor's degree in Marketing, Business, or related field",
+      "4+ years of digital marketing experience",
+      "Proven expertise in Meta Ads and Google Ads",
+      "Strong analytical skills with Google Analytics",
+      "Experience managing a marketing team",
+      "E-commerce background is a plus"
     ],
     "skills": [
-      "Teaching",
-      "Research",
-      "Python",
-      "Machine Learning",
-      "Academic Writing",
-      "Supervision"
+      "Meta Ads",
+      "Google Ads",
+      "SEO",
+      "Google Analytics",
+      "Email Marketing",
+      "Team Management"
     ],
-    "experience": "3-5 years",
+    "experience": "4-6 years",
     "postedAt": "2026-05-03T00:00:00Z",
-    "applyUrl": "https://www.pu.edu.pk/careers",
+    "applyUrl": "https://careers.daraz.pk",
     "isActive": true,
-    "category": "Teaching & Education"
+    "category": "Sales & Marketing"
   },
   {
     "id": "job_006",
@@ -1447,36 +1494,35 @@
     "category": "Defence"
   },
   {
-    "id": "job_007",
-    "title": "Digital Marketing Manager",
-    "company": "Daraz Pakistan",
-    "description": "Daraz, Pakistan's leading e-commerce platform and part of Alibaba Group, is looking for a Digital Marketing Manager to lead performance marketing campaigns across social media, search, and display channels.\n\nYou will manage a team of 5 marketing specialists, oversee a multi-million PKR advertising budget, and be responsible for user acquisition and retention strategies.",
-    "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&auto=format&fit=crop&q=60",
+    "id": "job_005",
+    "title": "Assistant Professor – Computer Science",
+    "company": "University of the Punjab",
+    "description": "The University of the Punjab, one of Pakistan's oldest and most prestigious universities, invites applications for the position of Assistant Professor in the Department of Computer Science, Lahore.\n\nThe successful candidate will be responsible for teaching undergraduate and postgraduate courses, supervising student research projects, and contributing to departmental research activities.",
+    "imageUrl": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&auto=format&fit=crop&q=60",
     "location": "Lahore, Pakistan",
     "type": "Full-time",
-    "salary": "PKR 250,000 - 400,000",
-    "deadline": "2026-06-10",
+    "salary": "PKR 180,000 - 250,000",
+    "deadline": "2026-07-01",
     "requirements": [
-      "Bachelor's degree in Marketing, Business, or related field",
-      "4+ years of digital marketing experience",
-      "Proven expertise in Meta Ads and Google Ads",
-      "Strong analytical skills with Google Analytics",
-      "Experience managing a marketing team",
-      "E-commerce background is a plus"
+      "PhD in Computer Science or related field (or near completion)",
+      "Strong research publications record",
+      "Experience in teaching at university level",
+      "Expertise in AI, Machine Learning, or Software Engineering preferred",
+      "Excellent communication and presentation skills"
     ],
     "skills": [
-      "Meta Ads",
-      "Google Ads",
-      "SEO",
-      "Google Analytics",
-      "Email Marketing",
-      "Team Management"
+      "Teaching",
+      "Research",
+      "Python",
+      "Machine Learning",
+      "Academic Writing",
+      "Supervision"
     ],
-    "experience": "4-6 years",
+    "experience": "3-5 years",
     "postedAt": "2026-05-03T00:00:00Z",
-    "applyUrl": "https://careers.daraz.pk",
+    "applyUrl": "https://www.pu.edu.pk/careers",
     "isActive": true,
-    "category": "Sales & Marketing"
+    "category": "Teaching & Education"
   },
   {
     "id": "job_004",
