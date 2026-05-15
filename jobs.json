@@ -1,5 +1,50 @@
 [
   {
+    "id": "8548d54b-3aff-414b-812a-485c4aa0a50f",
+    "title": "UI/UX Design Intern",
+    "company": "Devsinc",
+    "description": "Devsinc is hiring a UI/UX Design Intern for its Lahore office to support product and design teams in creating modern digital experiences for web and mobile platforms. The role involves designing wireframes, prototypes, and high-fidelity UI mockups, maintaining consistency through design systems, and collaborating with stakeholders to improve user experiences. Candidates will gain hands-on exposure to real-world product development, mentorship from experienced designers, and opportunities to work on production-level projects with potential for full-time hiring based on performance.",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_xdjrdpxdjrdpxdjr.png",
+    "location": "Lahore",
+    "type": "Internship",
+    "salary": "Not Disclosed",
+    "deadline": "May 31, 2026",
+    "requirements": [
+      "Bachelor’s degree or currently pursuing in Computer Science, Interaction Design, HCI, or equivalent field.",
+      "At least 6 months of hands-on UI/UX design experience through internships, freelance work, or personal projects.",
+      "Portfolio showcasing design thinking, visual skills, usability, and aesthetics.",
+      "Basic understanding of design systems, variables, and tokens.",
+      "Familiarity with AI design tools and their practical use in design workflows.",
+      "Proficiency in Figma or equivalent design tools.",
+      "Ability to design wireframes, prototypes, and high-fidelity UI mockups.",
+      "Ability to translate requirements into clean and consistent user interfaces.",
+      "Ability to iterate on designs based on stakeholder and user feedback.",
+      "Strong communication and collaboration skills.",
+      "Open to feedback and willing to learn and grow.",
+      "Experience with CMS platforms like Webflow, Framer, or WordPress is a plus.",
+      "Basic knowledge of HTML and CSS is a plus.",
+      "Design certifications such as Google UX Design or Interaction Design Foundation are a plus."
+    ],
+    "skills": [
+      "UI/UX Design",
+      "Figma",
+      "Wireframing",
+      "Prototyping",
+      "Design Systems",
+      "UI Mockups",
+      "User Experience",
+      "AI Design Tools",
+      "Visual Design",
+      "Interaction Design",
+      "WordPress"
+    ],
+    "experience": "6 Months",
+    "postedAt": "2026-05-15T17:25:41.015",
+    "applyUrl": "https://apply.workable.com/devsinc-17/j/853D2F9329/apply/",
+    "isActive": true,
+    "category": "Digital Media & Content"
+  },
+  {
     "id": "f42e3da2-fc5e-4797-82ac-0522703dddb8",
     "title": "Android Developer",
     "company": "inDrive",
@@ -1334,36 +1379,35 @@
     "category": "Banking & Finance"
   },
   {
-    "id": "job_007",
-    "title": "Digital Marketing Manager",
-    "company": "Daraz Pakistan",
-    "description": "Daraz, Pakistan's leading e-commerce platform and part of Alibaba Group, is looking for a Digital Marketing Manager to lead performance marketing campaigns across social media, search, and display channels.\n\nYou will manage a team of 5 marketing specialists, oversee a multi-million PKR advertising budget, and be responsible for user acquisition and retention strategies.",
-    "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&auto=format&fit=crop&q=60",
+    "id": "job_005",
+    "title": "Assistant Professor – Computer Science",
+    "company": "University of the Punjab",
+    "description": "The University of the Punjab, one of Pakistan's oldest and most prestigious universities, invites applications for the position of Assistant Professor in the Department of Computer Science, Lahore.\n\nThe successful candidate will be responsible for teaching undergraduate and postgraduate courses, supervising student research projects, and contributing to departmental research activities.",
+    "imageUrl": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&auto=format&fit=crop&q=60",
     "location": "Lahore, Pakistan",
     "type": "Full-time",
-    "salary": "PKR 250,000 - 400,000",
-    "deadline": "2026-06-10",
+    "salary": "PKR 180,000 - 250,000",
+    "deadline": "2026-07-01",
     "requirements": [
-      "Bachelor's degree in Marketing, Business, or related field",
-      "4+ years of digital marketing experience",
-      "Proven expertise in Meta Ads and Google Ads",
-      "Strong analytical skills with Google Analytics",
-      "Experience managing a marketing team",
-      "E-commerce background is a plus"
+      "PhD in Computer Science or related field (or near completion)",
+      "Strong research publications record",
+      "Experience in teaching at university level",
+      "Expertise in AI, Machine Learning, or Software Engineering preferred",
+      "Excellent communication and presentation skills"
     ],
     "skills": [
-      "Meta Ads",
-      "Google Ads",
-      "SEO",
-      "Google Analytics",
-      "Email Marketing",
-      "Team Management"
+      "Teaching",
+      "Research",
+      "Python",
+      "Machine Learning",
+      "Academic Writing",
+      "Supervision"
     ],
-    "experience": "4-6 years",
+    "experience": "3-5 years",
     "postedAt": "2026-05-03T00:00:00Z",
-    "applyUrl": "https://careers.daraz.pk",
+    "applyUrl": "https://www.pu.edu.pk/careers",
     "isActive": true,
-    "category": "Sales & Marketing"
+    "category": "Teaching & Education"
   },
   {
     "id": "job_006",
@@ -1494,35 +1538,36 @@
     "category": "Defence"
   },
   {
-    "id": "job_005",
-    "title": "Assistant Professor – Computer Science",
-    "company": "University of the Punjab",
-    "description": "The University of the Punjab, one of Pakistan's oldest and most prestigious universities, invites applications for the position of Assistant Professor in the Department of Computer Science, Lahore.\n\nThe successful candidate will be responsible for teaching undergraduate and postgraduate courses, supervising student research projects, and contributing to departmental research activities.",
-    "imageUrl": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&auto=format&fit=crop&q=60",
+    "id": "job_007",
+    "title": "Digital Marketing Manager",
+    "company": "Daraz Pakistan",
+    "description": "Daraz, Pakistan's leading e-commerce platform and part of Alibaba Group, is looking for a Digital Marketing Manager to lead performance marketing campaigns across social media, search, and display channels.\n\nYou will manage a team of 5 marketing specialists, oversee a multi-million PKR advertising budget, and be responsible for user acquisition and retention strategies.",
+    "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&auto=format&fit=crop&q=60",
     "location": "Lahore, Pakistan",
     "type": "Full-time",
-    "salary": "PKR 180,000 - 250,000",
-    "deadline": "2026-07-01",
+    "salary": "PKR 250,000 - 400,000",
+    "deadline": "2026-06-10",
     "requirements": [
-      "PhD in Computer Science or related field (or near completion)",
-      "Strong research publications record",
-      "Experience in teaching at university level",
-      "Expertise in AI, Machine Learning, or Software Engineering preferred",
-      "Excellent communication and presentation skills"
+      "Bachelor's degree in Marketing, Business, or related field",
+      "4+ years of digital marketing experience",
+      "Proven expertise in Meta Ads and Google Ads",
+      "Strong analytical skills with Google Analytics",
+      "Experience managing a marketing team",
+      "E-commerce background is a plus"
     ],
     "skills": [
-      "Teaching",
-      "Research",
-      "Python",
-      "Machine Learning",
-      "Academic Writing",
-      "Supervision"
+      "Meta Ads",
+      "Google Ads",
+      "SEO",
+      "Google Analytics",
+      "Email Marketing",
+      "Team Management"
     ],
-    "experience": "3-5 years",
+    "experience": "4-6 years",
     "postedAt": "2026-05-03T00:00:00Z",
-    "applyUrl": "https://www.pu.edu.pk/careers",
+    "applyUrl": "https://careers.daraz.pk",
     "isActive": true,
-    "category": "Teaching & Education"
+    "category": "Sales & Marketing"
   },
   {
     "id": "job_004",
