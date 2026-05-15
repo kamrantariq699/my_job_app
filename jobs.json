@@ -1,5 +1,39 @@
 [
   {
+    "id": "c38c6cf5-41f2-4151-a043-60c302806277",
+    "title": "Sales & Marketing Associate",
+    "company": "The Roarworks",
+    "description": "The Roarworks is looking for a motivated and energetic Sales & Marketing Associate to join our team in Blue Area, Islamabad. The ideal candidate will be responsible for promoting company services, generating leads, building customer relationships, and supporting sales growth through direct interaction and field activities.\n\nResponsibilities\n\n- Meet potential clients and customers in person\n- Promote and explain company services/products\n- Generate leads and convert them into sales\n- Build and maintain strong customer relationships\n- Achieve assigned sales targets and KPIs\n- Conduct field visits to universities, offices, markets, and events\n- Collect customer feedback and market insights\n- Support the sales team in daily field operations\n- Represent the company professionally during meetings and events",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_7qdkkm7qdkkm7qdk.png",
+    "location": "Islamabad",
+    "type": "Full-time",
+    "salary": "50,000 PKR +Commission",
+    "deadline": "May 31, 2026",
+    "requirements": [
+      "6 Months to 1 Year of experience in sales or marketing",
+      "Strong communication and interpersonal skills",
+      "Confidence in face-to-face client interaction",
+      "Ability to work independently and meet targets",
+      "Basic understanding of sales and marketing techniques",
+      "Willingness to travel locally for field work",
+      "Positive attitude and professional behavior"
+    ],
+    "skills": [
+      "Lead generation",
+      "Closing sales",
+      "Negotiation",
+      "Customer relationship management",
+      "Target achievement",
+      "Direct marketing",
+      "Field marketing"
+    ],
+    "experience": "6+ Months",
+    "postedAt": "2026-05-15T17:43:13.095",
+    "applyUrl": "mailto:info@theroarworks.com?subject=Application%20for%20Sales%20%26%20Marketing%20Associate&body=Dear%20Hiring%20Manager%2C%0A%0AI%20am%20writing%20to%20apply%20for%20the%20Sales%20%26%20Marketing%20Associate%20position%20at%20The%20Roarworks.%0A%0AI%20have%20%5BEnter%206%20Months%20-%201%20Year%20Experience%5D%20in%20sales%20and%20marketing%20and%20strong%20interest%20in%20field%20sales%2C%20lead%20generation%2C%20and%20customer%20relationship%20management.%0A%0AMy%20skills%20include%3A%20%5BLead%20Generation%2C%20Sales%20Closing%2C%20Communication%2C%20Negotiation%2C%20Customer%20Relationship%20Management%5D.%0A%0AI%20am%20confident%20in%20face-to-face%20client%20interaction%20and%20have%20experience%20in%20%5BYour%20Industry%20or%20Field%20Experience%5D.%0A%0AEducation%3A%20%5BYour%20Qualification%5D%0A%0ALocation%3A%20%5BYour%20Location%5D%0A%0AAvailability%3A%20%5BYour%20Availability%5D%0A%0AI%20am%20a%20motivated%20and%20target-driven%20individual%20looking%20to%20contribute%20to%20your%20sales%20growth%20and%20customer%20expansion.%0A%0AThank%20you%20for%20your%20time%20and%20consideration.%0A%0AKind%20regards%2C%0A%5BYour%20Name%5D%0A%5BYour%20Phone%20Number%5D%0A%5BYour%20Email%20Address%5D",
+    "isActive": true,
+    "category": "Sales & Marketing"
+  },
+  {
     "id": "8548d54b-3aff-414b-812a-485c4aa0a50f",
     "title": "UI/UX Design Intern",
     "company": "Devsinc",
