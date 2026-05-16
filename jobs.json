@@ -1,5 +1,35 @@
 [
   {
+    "id": "fec15611-c09b-4384-9909-344aadb2e1fc",
+    "title": "Mali - IOP",
+    "company": "Directorate General Research and Development Establishment-DGRDE",
+    "description": "Job Duties Should be conversant with garden practice Qualification: Literate Domicile Quota: Ordinary local Location of Job: Rawalpindi",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_gse7zgse7zgse7zg.png",
+    "location": "Rawalpindi",
+    "type": "Full-time",
+    "salary": "BPS-01",
+    "deadline": "May 26, 2026",
+    "requirements": [
+      "Candidate should be literate.",
+      "Should be conversant with garden practices.",
+      "Ordinary local domicile required.",
+      "Maximum age limit: 30 years."
+    ],
+    "skills": [
+      "Gardening",
+      "Plantation Care",
+      "Landscaping",
+      "Plant Care",
+      "Outdoor Work",
+      "Garden Maintenance"
+    ],
+    "experience": "1 Year",
+    "postedAt": "2026-05-16T18:48:32.778",
+    "applyUrl": "https://www.njp.gov.pk/jobs/9213",
+    "isActive": true,
+    "category": "Government / Sarkari"
+  },
+  {
     "id": "be344b2a-ee9a-4910-a644-a812596f9178",
     "title": "HR Manager - Healthcare Division",
     "company": "Agay Barho!",
