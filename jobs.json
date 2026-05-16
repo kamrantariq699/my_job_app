@@ -1,5 +1,39 @@
 [
   {
+    "id": "f62910b2-b702-4135-bc57-93aa814b7efa",
+    "title": "Node Js Un Paid Intern",
+    "company": "Al Raheem Technologies",
+    "description": "This is a 3-month Node.js internship based in Rawalpindi at Military College of Signals. The role requires a self-driven and punctual individual with strong problem-solving abilities. The intern will work on backend development tasks using Node.js, take ownership of assigned work, and contribute to project development in a disciplined office environment.",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_uxdndquxdndquxdn.png",
+    "location": "Rawalpindi",
+    "type": "Internship",
+    "salary": "Unpaid Internship",
+    "deadline": "June 15, 2026",
+    "requirements": [
+      "Self-driven with ability to take ownership of tasks.",
+      "Punctual and disciplined in working hours.",
+      "Strong problem-solving skills.",
+      "Ability to work independently.",
+      "Fresh candidates are eligible.",
+      "Willing to work from office location (Military College of Signals, Rawalpindi)."
+    ],
+    "skills": [
+      "Node.js",
+      "Problem Solving",
+      "Backend Development",
+      "JavaScript",
+      "API Development",
+      "Self Management",
+      "Time Management",
+      "Team Collaboration"
+    ],
+    "experience": "Fresh / Internship",
+    "postedAt": "2026-05-16T20:04:08.810",
+    "applyUrl": "https://www.itjobsinpakistan.com/jobs/view/node-js-un-paid-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic#",
+    "isActive": true,
+    "category": "IT & Software"
+  },
+  {
     "id": "0b4a50aa-45e2-4a14-917a-4e5f50f84665",
     "title": "Flutter Intern",
     "company": "Corpela",
