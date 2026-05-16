@@ -1,5 +1,36 @@
 [
   {
+    "id": "0b4a50aa-45e2-4a14-917a-4e5f50f84665",
+    "title": "Flutter Intern",
+    "company": "Corpela",
+    "description": "Corpela is offering a paid Flutter Internship in Islamabad where selected candidates will assist in designing, developing, testing, and optimizing Flutter-based mobile applications. Interns will work with senior developers on live projects, learn modern development tools and frameworks, and contribute to improving user experience. The role provides hands-on industry exposure, mentorship, and a potential pathway to a full-time position based on performance.",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_1jdynu1jdynu1jdy.png",
+    "location": "Islamabad",
+    "type": "Internship",
+    "salary": "40,000 PKR",
+    "deadline": "June 15, 2026",
+    "requirements": [
+      "Basic knowledge of Flutter/Dart and mobile app development.",
+      "Understanding of APIs, third-party libraries, and integration.",
+      "Eagerness to learn and adapt quickly.",
+      "Strong problem-solving and teamwork skills.",
+      "Recent graduates or final-year students are encouraged to apply."
+    ],
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Teamwork",
+      "Mobile App Development",
+      "API Integration",
+      "Problem Solving"
+    ],
+    "experience": "Fresh / Internship",
+    "postedAt": "2026-05-16T19:12:53.440",
+    "applyUrl": "https://corpela.com/jobs/flutter-intern-paid-onsite/",
+    "isActive": true,
+    "category": "IT & Software"
+  },
+  {
     "id": "fec15611-c09b-4384-9909-344aadb2e1fc",
     "title": "Mali - IOP",
     "company": "Directorate General Research and Development Establishment-DGRDE",
