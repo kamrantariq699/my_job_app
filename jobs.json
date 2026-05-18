@@ -1,5 +1,46 @@
 [
   {
+    "id": "284b9632-5c34-475c-a3a8-4c1b348d55c8",
+    "title": "Chemistry Teacher",
+    "company": "Profyd",
+    "description": "Profyd is hiring a Chemistry Teacher to conduct engaging on-site and/or online classes for students. The role includes preparing lesson plans, teaching chemistry concepts clearly, assessing student performance, and using modern digital tools to enhance learning. The teacher will provide feedback, maintain student records, and contribute to an interactive and supportive learning environment with opportunities for career growth and professional development.",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_ig6qeyig6qeyig6q.png",
+    "location": "Lahore",
+    "type": "Hybrid",
+    "salary": "30,000 – 70,000 PKR",
+    "deadline": "June 15, 2026",
+    "requirements": [
+      "Bachelor’s or Master’s degree in Chemistry or related field.",
+      "Strong command of English language.",
+      "Good communication and teaching skills.",
+      "Ability to simplify complex Chemistry concepts effectively.",
+      "Teaching or tutoring experience preferred.",
+      "Ability to conduct on-site and/or online classes.",
+      "Ability to prepare lesson plans, notes, and assessments.",
+      "Ability to track student progress and provide feedback.",
+      "Ability to use interactive teaching methods and digital tools."
+    ],
+    "skills": [
+      "Chemistry Teaching",
+      "Lesson Planning",
+      "Classroom Management",
+      "Student Assessment",
+      "Communication Skills",
+      "English Language",
+      "Curriculum Development",
+      "Digital Teaching Tools",
+      "Online Teaching",
+      "Concept Simplification",
+      "Feedback Delivery",
+      "Interactive Teaching"
+    ],
+    "experience": "Teaching/Tutoring experience preferred",
+    "postedAt": "2026-05-18T16:41:15.385",
+    "applyUrl": "https://crm.profyd.com/widget/quiz/QJSWM7vV5xFARXoilitV?notrack=true",
+    "isActive": true,
+    "category": "Teaching & Education"
+  },
+  {
     "id": "ffd2ed44-0de4-49c3-aa33-a86983d2894d",
     "title": "Zonal Manager (Sales)",
     "company": "Millan Agro Seed",
