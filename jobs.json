@@ -1,5 +1,47 @@
 [
   {
+    "id": "9faabc27-465f-4e49-9085-e599f944cff0",
+    "title": "Security Guard",
+    "company": "International Medical Corps",
+    "description": "The Security Guard will be responsible for maintaining the safety and security of personnel, visitors, assets, and facilities by performing screening, surveillance, patrolling, and access control duties. The role includes monitoring premises, maintaining security records and logbooks, enforcing security protocols, reporting incidents, securing buildings and property, and ensuring a safe environment across assigned facilities.",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_olar9lolar9lolar.png",
+    "location": "Islamabad",
+    "type": "Full-time",
+    "salary": "Not Disclosed",
+    "deadline": "May 31, 2026",
+    "requirements": [
+      "Minimum 1 year of relevant security service experience.",
+      "Sound physical health and stamina to perform assigned duties.",
+      "Good hygiene practices.",
+      "Previous experience with International Medical Corps is a plus.",
+      "Excellent interpersonal and communication skills.",
+      "Ability to prioritize work and multitask in a fast-paced environment.",
+      "Ability to meet schedules and deadlines.",
+      "Fluency in written and spoken language as required.",
+      "Ability to implement security protocols and maintain vigilance.",
+      "Ability to maintain records, logbooks, and security reports."
+    ],
+    "skills": [
+      "Security Services",
+      "Surveillance",
+      "Access Control",
+      "Patrolling",
+      "Security Protocols",
+      "Incident Reporting",
+      "Logbook Management",
+      "Property Security",
+      "Communication Skills",
+      "Interpersonal Skills",
+      "Time Management",
+      "Physical Fitness"
+    ],
+    "experience": "1 Year",
+    "postedAt": "2026-05-19T14:24:09.206",
+    "applyUrl": "https://internationalmedicalcorps.hua.hrsmart.com/hr/ats/Posting/view/4213",
+    "isActive": true,
+    "category": "Security & Maintenance"
+  },
+  {
     "id": "00123d78-f2b5-4b59-905e-b36bbf2f33e9",
     "title": "DevelopersHub Corporation Internship program",
     "company": "DevelopersHub Corporation©",
