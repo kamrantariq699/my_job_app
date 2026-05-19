@@ -1,5 +1,42 @@
 [
   {
+    "id": "00123d78-f2b5-4b59-905e-b36bbf2f33e9",
+    "title": "DevelopersHub Corporation Internship program",
+    "company": "DevelopersHub Corporation©",
+    "description": "DevelopersHub Corporation is offering a structured 6-week remote internship program for university students and fresh graduates. The program provides opportunities in multiple domains including software development, Flutter, AI/ML, cybersecurity, UI/UX, graphic design, and digital marketing. Participants will gain mentorship, real-world project experience, professional documentation, and career development support in a fully remote environment.",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_38mydo38mydo38my.png",
+    "location": "Remote",
+    "type": "Internship",
+    "salary": "Not Disclosed",
+    "deadline": "May 31, 2026",
+    "requirements": [
+      "Freshers and university students are eligible.",
+      "Availability for a 6-week remote internship program.",
+      "Interest in the selected technical or creative field.",
+      "Willingness to learn and work on real-world projects.",
+      "Ability to work remotely."
+    ],
+    "skills": [
+      "Frontend Development",
+      "Backend Development",
+      "Full Stack Development",
+      "Cyber Security",
+      "Data Science",
+      "AI / Machine Learning",
+      "Flutter",
+      "Mobile App Development",
+      "UI/UX Design",
+      "Graphic Design",
+      "Digital Marketing",
+      "Software Development"
+    ],
+    "experience": "Freshers / University Students",
+    "postedAt": "2026-05-19T14:11:30.487",
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeLz2lwOQ-SdblgRIqA1X005TY8XHGKB6bxILwF8ec_Bwju-w/viewform",
+    "isActive": true,
+    "category": "IT & Software"
+  },
+  {
     "id": "dc941401-064a-42e6-b774-7c46b7467fe3",
     "title": "GAME PROGRAMMER (INTERN)",
     "company": "Ropstam Game Studio",
