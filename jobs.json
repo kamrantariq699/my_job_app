@@ -1,5 +1,40 @@
 [
   {
+    "id": "621e45db-9e71-40e3-b3b1-92c74246c7cd",
+    "title": "AI Engineer",
+    "company": "Tekrowe",
+    "description": "The Role: We are seeking a AI Engineer with strong technical expertise in building and deploying AI-driven solutions. The ideal candidate will have hands-on experience in developing end-to-end applications using Large Language Models (LLMs), implementing chatbots, and leveraging state-of-the-art frameworks for enterprise use cases. You will contribute to prompt engineering, fine-tuning, and cloud-based LLM inferencing to deliver scalable AI solutions.\n\n\n\nKey Responsibilities:\n\nDevelop end-to-end applications powered by Large Language Models (LLMs)\nBuild and deploy chatbots for enterprise-focused use cases\nApply prompt engineering techniques to optimize model responses\nFine-tune LLMs on domain-specific datasets\nIntegrate AI models with APIs and external enterprise systems\nDesign data preprocessing pipelines for training and inference\nConduct evaluation, benchmarking, and performance optimization of models\nContribute to workflow automation using AI-driven solutions.",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_90vkkz90vkkz90vk.png",
+    "location": "Islamabad",
+    "type": "Full-time",
+    "salary": "Not Disclosed",
+    "deadline": "May 31, 2026",
+    "requirements": [
+      "Bachelor’s or Master’s degree in Computer Science, Software Engineering, Data Science, or Artificial Intelligence",
+      "3+ years of experience in AI/ML development, with a focus on LLMs and chatbot applications",
+      "Strong problem-solving skills and ability to translate business needs into AI-driven solutions",
+      "Passion for staying up to date with the latest advancements in Generative AI and LLM technologies."
+    ],
+    "skills": [
+      "LLM Development",
+      "Chatbot Development",
+      "Prompt Engineering",
+      "Model Fine-tuning",
+      "API Integration",
+      "Python Programming",
+      "Data Pipelines",
+      "Model Evaluation",
+      "AI/ML Deployment",
+      "Problem Solving",
+      "Generative AI Knowledge"
+    ],
+    "experience": "3+ Years",
+    "postedAt": "2026-05-19T17:48:51.426",
+    "applyUrl": "https://www.tekrowe.com/careers/2",
+    "isActive": true,
+    "category": "IT & Software"
+  },
+  {
     "id": "9faabc27-465f-4e49-9085-e599f944cff0",
     "title": "Security Guard",
     "company": "International Medical Corps",
