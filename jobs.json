@@ -1,5 +1,35 @@
 [
   {
+    "id": "34ef7dd0-18c1-44bb-8cfa-a3e6b6f618a9",
+    "title": "Summer Internship Program",
+    "company": "Hamdard Pakistan",
+    "description": "Hamdard Pakistan is offering a Summer Internship Program designed for motivated students and fresh graduates to gain practical corporate experience in a professional environment.\n\nInterns will be placed in different departments such as Supply Chain, Marketing, Finance, Human Resources, IT, Sales Operations, International Business, and Regulatory Affairs. During the internship, participants will gain hands-on exposure to real business operations, improve their professional skills, and learn how different corporate functions operate within a large organization.\n\nThis program is ideal for candidates looking to build their careers, enhance communication and teamwork skills, and gain real-world industry experience in a structured corporate setting.",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_nqie9pnqie9pnqie.png",
+    "location": "Karachi",
+    "type": "Internship",
+    "salary": "Not specified (Paid internship – stipend may vary by department)",
+    "deadline": "May 25, 2026",
+    "requirements": [
+      "Final-year students or recent graduates",
+      "Strong communication skills",
+      "Strong interpersonal skills"
+    ],
+    "skills": [
+      "Communication Skills",
+      "Interpersonal Skills",
+      "Teamwork",
+      "Adaptability",
+      "Basic Professional Etiquette",
+      "Learning Attitude",
+      "Time Management"
+    ],
+    "experience": "Fresh Graduates / Final-year students",
+    "postedAt": "2026-05-20T14:10:08.721",
+    "applyUrl": "Hamdard Pakistan is hiring Interns! hashtag#Summerinternship hashtag#Karachi  Deadline to apply: 25th May 2026  We are looking for motivated interns to join our team at our Head Office in the following departments:  -Supply Chain -Marketing -Finance -Human Resources & Administration -Information Technology -Sales Operations -International Business -Regulatory Affairs  Eligibility Criteria: Final-year students or recent graduates Strong communication and interpersonal skills  Location: Tariq Road, Karachi, Pakistan  Interested candidates are encouraged to apply by sharing their updated CVs at Careers@hamdard.com.pk.  hashtag#Internship hashtag#KarachiJobs hashtag#SupplyChain hashtag#Marketing hashtag#Finance hashtag#HR hashtag#Administration hashtag#IT hashtag#Operations hashtag#FreshGraduates hashtag#CareerOpportunity hashtag#HamdardPakistan",
+    "isActive": true,
+    "category": "Other"
+  },
+  {
     "id": "3d2a4909-8815-4ad7-a72a-b4494344797f",
     "title": "SparkShip 2026 – Summer Internship Program",
     "company": "Telenor",
