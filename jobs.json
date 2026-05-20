@@ -1,5 +1,39 @@
 [
   {
+    "id": "3d2a4909-8815-4ad7-a72a-b4494344797f",
+    "title": "SparkShip 2026 – Summer Internship Program",
+    "company": "Telenor",
+    "description": "SparkShip 2026 is a summer internship program by Telenor Shared Services Pakistan designed to provide students with real corporate exposure and hands-on experience in a global organization.\n\nInterns will work on real business projects across multiple domains such as Technology, AI & Automation, Software Development, Cybersecurity, Finance, HR, Operations, and Design. The program focuses on learning through mentorship, collaboration, and practical work experience.\n\nParticipants will engage in training sessions, mentorship programs, and team activities that help develop professional and technical skills in a supportive and inclusive environment. The internship encourages curiosity, innovation, and the use of modern digital tools including AI.\n\nThe program aims to prepare students for future careers by offering exposure to real-world challenges, global business practices, and a professional work culture.",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_u1l0ttu1l0ttu1l0.png",
+    "location": "Islamabad",
+    "type": "Internship",
+    "salary": "Paid Internship | Not Disclosed",
+    "deadline": "May 31, 2026",
+    "requirements": [
+      "Minimum 2 years of undergraduate study completed",
+      "ACCA finalists (for finance stream)",
+      "Basic computer skills (MS Word, Excel, PowerPoint)",
+      "Strong communication skills (verbal & written)",
+      "Curiosity to learn and explore AI/digital tools",
+      "Self-driven and detail-oriented mindset",
+      "Open to learning and teamwork"
+    ],
+    "skills": [
+      "Communication Skills",
+      "Team Collaboration",
+      "Adaptability",
+      "AI Curiosity",
+      "Microsoft Office (Word, Excel, PowerPoint)",
+      "Analytical Thinking",
+      "Learning Agility"
+    ],
+    "experience": "Fresh / Undergraduate students",
+    "postedAt": "2026-05-20T13:42:40.537",
+    "applyUrl": "https://telenortsspakistan-1750856773.teamtailor.com/jobs/7656574-sparkship-2026-summer-internship-program-telenor-shared-services-pakistan?utm_source=LinkedIn",
+    "isActive": true,
+    "category": "Other"
+  },
+  {
     "id": "621e45db-9e71-40e3-b3b1-92c74246c7cd",
     "title": "AI Engineer",
     "company": "Tekrowe",
