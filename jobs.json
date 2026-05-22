@@ -1,5 +1,37 @@
 [
   {
+    "id": "0ae03caf-5539-480b-9906-63f292ac198b",
+    "title": "Bike Rider",
+    "company": "Tick Industries Pvt Ltd",
+    "description": "Tick Industries Pvt Ltd is hiring Bike Riders for order delivery operations in Lahore. The selected candidate will be responsible for delivering stationery items to customers across the city efficiently and on time.\n\nThe role requires managing deliveries using a smartphone, navigating Lahore routes effectively, and maintaining punctuality and professionalism during daily operations.\n\nSalary\n\nPKR 35,000 – 38,000 / month\n\n- Performance Incentives (3,000 – 7,000)\n- Fuel Allowance\n- Mobile Package Allowance (1,000/month)\n- Bike Maintenance Allowance (2,000/month)\n- Yearly Performance Bonus",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_58uhqv58uhqv58uh.png",
+    "location": "Lahore",
+    "type": "Full-time",
+    "salary": "35,000 – 38,000 PKR",
+    "deadline": "May 31, 2026",
+    "requirements": [
+      "Own bike with valid driving license",
+      "Smartphone for order management",
+      "Familiarity with Lahore routes",
+      "Punctual and responsible attitude"
+    ],
+    "skills": [
+      "Bike Riding",
+      "Route Navigation",
+      "Order Management",
+      "Time Management",
+      "Smartphone Usage",
+      "Responsibility",
+      "Punctuality",
+      "Delivery Handling"
+    ],
+    "experience": "< 1 Year",
+    "postedAt": "2026-05-22T17:08:02.872",
+    "applyUrl": "mailto:info@tickindustries.com?subject=Application%20for%20Bike%20Rider%20%28Delivery%29%20Position&body=Dear%20Hiring%20Manager%2C%0A%0AI%20am%20writing%20to%20apply%20for%20the%20Bike%20Rider%20%28Delivery%29%20position%20at%20Tick%20Industries%20Pvt%20Ltd.%0A%0AI%20have%20%5BEnter%20Your%20Experience%20%2F%20Fresh%5D%20and%20own%20a%20bike%20with%20valid%20driving%20license.%0A%0AI%20am%20familiar%20with%20%5BLahore%20Routes%20%2F%20Your%20Area%5D%20and%20have%20experience%20in%20%5BDelivery%20%2F%20Field%20Work%20Experience%5D.%0A%0AMy%20skills%20include%3A%20%5BPunctuality%2C%20Time%20Management%2C%20Navigation%2C%20Customer%20Service%2C%20Responsibility%5D.%0A%0AI%20am%20reliable%2C%20hardworking%2C%20and%20ready%20to%20contribute%20to%20your%20delivery%20operations.%0A%0AThank%20you%20for%20your%20time%20and%20consideration.%0A%0AKind%20regards%2C%0A%5BYour%20Name%5D%0A%5BYour%20Phone%20Number%5D%0A%5BYour%20Email%20Address%5D",
+    "isActive": true,
+    "category": "Logistics & Supply Chain"
+  },
+  {
     "id": "85093a6f-8550-4b50-b0f6-826ac348792d",
     "title": "Engineer Mechanical",
     "company": "Pakistan Mint – Government of Pakistan",
