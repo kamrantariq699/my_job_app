@@ -1,5 +1,38 @@
 [
   {
+    "id": "62d7fe39-79f8-4f71-9fa3-8468616eed3a",
+    "title": "Summer Internship Program",
+    "company": "HBFC",
+    "description": "HBFC is offering a 6–8 week Summer Internship Program for students seeking hands-on corporate experience in the mortgage and finance industry. Interns will work on real projects alongside experienced professionals, gaining practical exposure to business operations, teamwork, and industry practices. The program is designed to help students build professional skills, understand corporate work environments, and explore career opportunities within finance and related fields.\n\nEligible Fields\n- Economics\n- Business Administration\n- Public Administration\n- Accounting & Finance\n- Commerce\n- Mathematics & Statistics\n- Human Resources\n- IT / Information Systems\n- Law\n- ACMA / ACA / ACCA\n- Risk Management",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_4ypljo4ypljo4ypl.png",
+    "location": "Karachi, Lahore, Islamabad",
+    "type": "Internship",
+    "salary": "Not Mentioned",
+    "deadline": "June 05, 2026",
+    "requirements": [
+      "Completed at least 2 years of Bachelor’s degree or enrolled in Master’s program",
+      "Relevant academic background",
+      "Strong academic performance",
+      "Passion to learn and succeed",
+      "Merit-based eligibility"
+    ],
+    "skills": [
+      "Communication Skills",
+      "Teamwork",
+      "Analytical Thinking",
+      "Problem Solving",
+      "Professional Attitude",
+      "Adaptability",
+      "Time Management",
+      "Project Collaboration"
+    ],
+    "experience": "Fresh",
+    "postedAt": "2026-05-23T19:04:25.151",
+    "applyUrl": "mailto:anam[.farwa@hbfc.com.pk](mailto:.farwa@hbfc.com.pk)?subject=Application%20for%20Summer%20Internship%20Program&body=Dear%20Hiring%20Manager%2C%0A%0AI%20am%20writing%20to%20apply%20for%20the%20HBFC%20Summer%20Internship%20Program.%0A%0AI%20am%20a%20%5BEnter%20Year%20of%20Study%20%2F%20Bachelor%20%2F%20Master%20Student%5D%20in%20%5BEconomics%20%2F%20Business%20Administration%20%2F%20Finance%20%2F%20Accounting%20%2F%20IT%20or%20Related%20Field%5D.%0A%0AMy%20skills%20include%3A%20%5BCommunication%2C%20Teamwork%2C%20MS%20Office%2C%20Problem%20Solving%2C%20Data%20Analysis%2C%20etc.%5D.%0A%0AI%20am%20interested%20in%20learning%20about%20the%20mortgage%20industry%20and%20contributing%20to%20HBFC%E2%80%99s%20projects%20during%20the%20internship%20program.%0A%0AEducation%3A%20%5BYour%20University%20Name%5D%0A%0ALocation%3A%20%5BKarachi%20%2F%20Lahore%20%2F%20Islamabad%20%2F%20Your%20City%5D%0A%0AI%20have%20attached%20my%20CV%2C%20CNIC%2C%20academic%20records%2C%20and%20other%20required%20documents.%0A%0AThank%20you%20for%20your%20time%20and%20consideration.%0A%0AKind%20regards%2C%0A%5BYour%20Name%5D%0A%5BYour%20Phone%20Number%5D%0A%5BYour%20Email%20Address%5D",
+    "isActive": true,
+    "category": "Accounting & Finance"
+  },
+  {
     "id": "36b4e26e-3dcf-4283-93a5-3d0946768ddd",
     "title": "Information Technology (IT) Officer",
     "company": "Public Sector Organization – Government of Pakistan",
