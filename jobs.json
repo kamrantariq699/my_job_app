@@ -1,5 +1,37 @@
 [
   {
+    "id": "9f5dc632-78d3-4609-a242-ae5ff1101b2d",
+    "title": "Virtual Assistant",
+    "company": "Oak Street Technologies - Pakistan",
+    "description": "Responsible for providing administrative and operational support including scheduling, communication handling, task coordination, and general virtual assistance. The role requires strong communication skills and the ability to manage multiple tasks efficiently in a fast-paced environment.",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_twmu58twmu58twmu.png",
+    "location": "Islamabad",
+    "type": "Full-time",
+    "salary": "Not Disclosed",
+    "deadline": "June 05, 2026",
+    "requirements": [
+      "Strong English communication skills",
+      "Good organizational abilities",
+      "Multitasking capability",
+      "Shift flexibility (rotational shifts)",
+      "Basic computer skills"
+    ],
+    "skills": [
+      "Communication Skills",
+      "Email Handling",
+      "Scheduling",
+      "Time Management",
+      "Organization Skills",
+      "Multitasking",
+      "Customer Support"
+    ],
+    "experience": "1–2 Years",
+    "postedAt": "2026-05-23T19:29:23.444",
+    "applyUrl": "mailto:careers@9ostech.com?subject=Application%20for%20Virtual%20Assistant&body=Dear%20Hiring%20Manager%2C%0A%0AI%20am%20writing%20to%20apply%20for%20the%20Virtual%20Assistant%20position%20at%20Oak%20Street%20Technologies.%0A%0AI%20have%20%5B1-2%20Years%20Experience%20%2F%20Fresh%20Experience%5D%20in%20%5BAdministration%20%2F%20Virtual%20Assistance%20%2F%20Customer%20Support%5D.%0A%0AMy%20skills%20include%3A%20%5BCommunication%2C%20English%2C%20MS%20Office%2C%20Scheduling%2C%20Multitasking%2C%20Organization%5D.%0A%0AI%20am%20comfortable%20working%20in%20rotational%20shifts%20and%20handling%20multiple%20tasks%20efficiently.%0A%0AEducation%3A%20%5BYour%20Qualification%5D%0A%0ALocation%3A%20%5BYour%20Location%5D%0A%0AAvailability%3A%20%5BYour%20Availability%5D%0A%0AThank%20you%20for%20your%20time%20and%20consideration.%0A%0AKind%20regards%2C%0A%5BYour%20Name%5D%0A%5BYour%20Phone%20Number%5D%0A%5BYour%20Email%20Address%5D",
+    "isActive": true,
+    "category": "Customer Service"
+  },
+  {
     "id": "7a058d66-8975-4b56-924e-4c784ad8e72d",
     "title": "Accounting & Finance Intern",
     "company": "Oak Street Technologies - Pakistan",
