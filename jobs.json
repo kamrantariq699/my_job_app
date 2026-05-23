@@ -1,5 +1,35 @@
 [
   {
+    "id": "7a058d66-8975-4b56-924e-4c784ad8e72d",
+    "title": "Accounting & Finance Intern",
+    "company": "Oak Street Technologies - Pakistan",
+    "description": "Assist the finance team with accounting tasks, financial record keeping, data entry, and basic reporting. The intern will support daily financial operations and gain hands-on experience in accounting processes within a professional environment.",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_r97bybr97bybr97b.png",
+    "location": "Islamabad",
+    "type": "Internship",
+    "salary": "Not Disclosed",
+    "deadline": "June 05, 2026",
+    "requirements": [
+      "Bachelor’s in Accounting & Finance (completed or final semester)",
+      "ACCA Part Qualified (max 3 papers remaining)",
+      "Basic accounting knowledge",
+      "MS Excel & MS Office skills"
+    ],
+    "skills": [
+      "MS Excel",
+      "Accounting Basics",
+      "Financial Data Entry",
+      "Reporting",
+      "Attention to Detail",
+      "Microsoft Office"
+    ],
+    "experience": "Fresh to 6 months",
+    "postedAt": "2026-05-23T19:23:41.860",
+    "applyUrl": "mailto:careers@9ostech.com?subject=Application%20for%20Accounting%20%26%20Finance%20Intern&body=Dear%20Hiring%20Manager%2C%0A%0AI%20am%20writing%20to%20apply%20for%20the%20Accounting%20%26%20Finance%20Intern%20position%20at%20Oak%20Street%20Technologies.%0A%0AI%20am%20a%20%5BFresh%20Graduate%20%2F%20Student%20%2F%20Final%20Year%20Student%5D%20in%20%5BAccounting%20%2F%20Finance%20%2F%20Commerce%5D.%0A%0AMy%20skills%20include%3A%20%5BMS%20Excel%2C%20Accounting%20Basics%2C%20Financial%20Reporting%2C%20Data%20Entry%2C%20Bank%20Reconciliation%5D.%0A%0AI%20have%20%5BYour%20Experience%20Level%5D%20experience%20in%20%5BRelevant%20Work%20%2F%20Internships%5D.%0A%0AEducation%3A%20%5BYour%20Qualification%20%2F%20ACCA%20Status%5D%0A%0ALocation%3A%20%5BYour%20Location%5D%0A%0AAvailability%3A%20%5BYour%20Availability%5D%0A%0AThank%20you%20for%20your%20consideration.%0A%0AKind%20regards%2C%0A%5BYour%20Name%5D%0A%5BYour%20Phone%20Number%5D%0A%5BYour%20Email%20Address%5D",
+    "isActive": true,
+    "category": "Accounting & Finance"
+  },
+  {
     "id": "62d7fe39-79f8-4f71-9fa3-8468616eed3a",
     "title": "Summer Internship Program",
     "company": "HBFC",
