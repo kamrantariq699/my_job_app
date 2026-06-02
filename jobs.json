@@ -1,5 +1,45 @@
 [
   {
+    "id": "7f3cb151-d0bb-49ab-8758-55b865440960",
+    "title": "Assistant Manager System & Storage",
+    "company": "NLC",
+    "description": "The Assistant Manager System & Storage will be responsible for managing and maintaining enterprise IT infrastructure including Windows and Linux servers, virtualization platforms, storage systems, and network services. The role involves administering VMware environments, hyper-converged infrastructure, Active Directory, backup and recovery solutions, and high-availability configurations. The candidate will oversee server security, storage management, software deployment, and system monitoring while ensuring proper documentation and smooth operations across multiple data centers.",
+    "imageUrl": "https://raw.githubusercontent.com/kamrantariq699/my_job_app/main/job_images/Gemini_Generated_Image_8zkqdi8zkqdi8zkq.png",
+    "location": "Rawalpindi",
+    "type": "Full-time",
+    "salary": "Not Disclosed",
+    "deadline": "June 5, 2026",
+    "requirements": [
+      "BCS / BS Software Engineering / BS Computer Science",
+      "Degree from HEC-recognized university",
+      "VMware & SAN Certification (Preferred)",
+      "3–5 years relevant experience",
+      "Knowledge of Windows/Linux server administration",
+      "Experience with virtualization & storage technologies"
+    ],
+    "skills": [
+      "Documentation",
+      "Server Security",
+      "Group Policy (GPO)",
+      "Windows Server Admin",
+      "Linux Administration",
+      "VMware / HCI",
+      "SAN / NAS / DAS Storage",
+      "Active Directory",
+      "DNS Management",
+      "Backup & Recovery",
+      "HA / DRS / vMotion",
+      "Hypervisor Management",
+      "LUN Provisioning",
+      "Zoning & Multipathing"
+    ],
+    "experience": "3–5 Years",
+    "postedAt": "2026-06-02T13:06:08.384",
+    "applyUrl": "https://www.nlc.com.pk/careers/portal/",
+    "isActive": true,
+    "category": "IT & Software"
+  },
+  {
     "id": "9f5dc632-78d3-4609-a242-ae5ff1101b2d",
     "title": "Virtual Assistant",
     "company": "Oak Street Technologies - Pakistan",
